@@ -1,4 +1,4 @@
-# Classifying-Traffic-signals-by-Deep-learning-using-Python-and-Keras
+# Classifying-Traffic-signs-by-Deep-learning-using-Python-and-Keras
 
 - Import Key libraries, dataset and visualize images.
 - Perform image normalization and convert from color-scaled to gray-scaled images.
